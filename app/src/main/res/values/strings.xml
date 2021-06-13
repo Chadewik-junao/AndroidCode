@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Code02</string>
+    <string name="button_add">num add</string>
+    <string name="button_sub">num sub</string>
+    <string name="text_num">welcome</string>
+
+</resources>
