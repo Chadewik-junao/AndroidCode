@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Code04</string>
+    <string name="button_send">send</string>
+    <string name="messageText">message</string>
+</resources>
